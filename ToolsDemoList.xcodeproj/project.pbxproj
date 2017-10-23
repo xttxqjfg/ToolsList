@@ -17,6 +17,14 @@
 		1A96C5C61F9D809000F40A54 /* DateTimePickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5C31F9D809000F40A54 /* DateTimePickerView.m */; };
 		1A96C5C71F9D809000F40A54 /* DateTimePickerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A96C5C41F9D809000F40A54 /* DateTimePickerView.xib */; };
 		1A96C5CA1F9D811500F40A54 /* DateTimePickerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5C91F9D811500F40A54 /* DateTimePickerVC.m */; };
+		1A96C5E31F9DC97800F40A54 /* GestureVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5D51F9DC97800F40A54 /* GestureVC.m */; };
+		1A96C5E41F9DC97800F40A54 /* LongPressVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5D71F9DC97800F40A54 /* LongPressVC.m */; };
+		1A96C5E51F9DC97800F40A54 /* PanVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5D91F9DC97800F40A54 /* PanVC.m */; };
+		1A96C5E61F9DC97800F40A54 /* PinchVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5DB1F9DC97800F40A54 /* PinchVC.m */; };
+		1A96C5E71F9DC97800F40A54 /* r8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1A96C5DC1F9DC97800F40A54 /* r8.jpg */; };
+		1A96C5E81F9DC97800F40A54 /* RotationVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5DE1F9DC97800F40A54 /* RotationVC.m */; };
+		1A96C5E91F9DC97800F40A54 /* SwipeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5E01F9DC97800F40A54 /* SwipeVC.m */; };
+		1A96C5EA1F9DC97800F40A54 /* TapVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A96C5E21F9DC97800F40A54 /* TapVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +44,21 @@
 		1A96C5C41F9D809000F40A54 /* DateTimePickerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DateTimePickerView.xib; sourceTree = "<group>"; };
 		1A96C5C81F9D811500F40A54 /* DateTimePickerVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DateTimePickerVC.h; sourceTree = "<group>"; };
 		1A96C5C91F9D811500F40A54 /* DateTimePickerVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DateTimePickerVC.m; sourceTree = "<group>"; };
+		1A96C5D41F9DC97800F40A54 /* GestureVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GestureVC.h; sourceTree = "<group>"; };
+		1A96C5D51F9DC97800F40A54 /* GestureVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GestureVC.m; sourceTree = "<group>"; };
+		1A96C5D61F9DC97800F40A54 /* LongPressVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongPressVC.h; sourceTree = "<group>"; };
+		1A96C5D71F9DC97800F40A54 /* LongPressVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LongPressVC.m; sourceTree = "<group>"; };
+		1A96C5D81F9DC97800F40A54 /* PanVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PanVC.h; sourceTree = "<group>"; };
+		1A96C5D91F9DC97800F40A54 /* PanVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PanVC.m; sourceTree = "<group>"; };
+		1A96C5DA1F9DC97800F40A54 /* PinchVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PinchVC.h; sourceTree = "<group>"; };
+		1A96C5DB1F9DC97800F40A54 /* PinchVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PinchVC.m; sourceTree = "<group>"; };
+		1A96C5DC1F9DC97800F40A54 /* r8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = r8.jpg; sourceTree = "<group>"; };
+		1A96C5DD1F9DC97800F40A54 /* RotationVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RotationVC.h; sourceTree = "<group>"; };
+		1A96C5DE1F9DC97800F40A54 /* RotationVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RotationVC.m; sourceTree = "<group>"; };
+		1A96C5DF1F9DC97800F40A54 /* SwipeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwipeVC.h; sourceTree = "<group>"; };
+		1A96C5E01F9DC97800F40A54 /* SwipeVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwipeVC.m; sourceTree = "<group>"; };
+		1A96C5E11F9DC97800F40A54 /* TapVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TapVC.h; sourceTree = "<group>"; };
+		1A96C5E21F9DC97800F40A54 /* TapVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TapVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +91,7 @@
 		1A96C5A51F9D7E2800F40A54 /* ToolsDemoList */ = {
 			isa = PBXGroup;
 			children = (
+				1A96C5D31F9DC97800F40A54 /* 手势操作 */,
 				1A96C5BF1F9D809000F40A54 /* 时间选择器 */,
 				1A96C5A91F9D7E2800F40A54 /* AppDelegate.h */,
 				1A96C5AA1F9D7E2800F40A54 /* AppDelegate.m */,
@@ -101,6 +125,28 @@
 				1A96C5C41F9D809000F40A54 /* DateTimePickerView.xib */,
 			);
 			path = "时间选择器";
+			sourceTree = "<group>";
+		};
+		1A96C5D31F9DC97800F40A54 /* 手势操作 */ = {
+			isa = PBXGroup;
+			children = (
+				1A96C5D41F9DC97800F40A54 /* GestureVC.h */,
+				1A96C5D51F9DC97800F40A54 /* GestureVC.m */,
+				1A96C5D61F9DC97800F40A54 /* LongPressVC.h */,
+				1A96C5D71F9DC97800F40A54 /* LongPressVC.m */,
+				1A96C5D81F9DC97800F40A54 /* PanVC.h */,
+				1A96C5D91F9DC97800F40A54 /* PanVC.m */,
+				1A96C5DA1F9DC97800F40A54 /* PinchVC.h */,
+				1A96C5DB1F9DC97800F40A54 /* PinchVC.m */,
+				1A96C5DC1F9DC97800F40A54 /* r8.jpg */,
+				1A96C5DD1F9DC97800F40A54 /* RotationVC.h */,
+				1A96C5DE1F9DC97800F40A54 /* RotationVC.m */,
+				1A96C5DF1F9DC97800F40A54 /* SwipeVC.h */,
+				1A96C5E01F9DC97800F40A54 /* SwipeVC.m */,
+				1A96C5E11F9DC97800F40A54 /* TapVC.h */,
+				1A96C5E21F9DC97800F40A54 /* TapVC.m */,
+			);
+			path = "手势操作";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +209,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A96C5B61F9D7E2800F40A54 /* LaunchScreen.storyboard in Resources */,
+				1A96C5E71F9DC97800F40A54 /* r8.jpg in Resources */,
 				1A96C5C71F9D809000F40A54 /* DateTimePickerView.xib in Resources */,
 				1A96C5B31F9D7E2800F40A54 /* Assets.xcassets in Resources */,
 				1A96C5BE1F9D7FFC00F40A54 /* DemoListName.plist in Resources */,
@@ -177,10 +224,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A96C5EA1F9DC97800F40A54 /* TapVC.m in Sources */,
 				1A96C5CA1F9D811500F40A54 /* DateTimePickerVC.m in Sources */,
+				1A96C5E91F9DC97800F40A54 /* SwipeVC.m in Sources */,
 				1A96C5AE1F9D7E2800F40A54 /* ViewController.m in Sources */,
+				1A96C5E51F9DC97800F40A54 /* PanVC.m in Sources */,
+				1A96C5E61F9DC97800F40A54 /* PinchVC.m in Sources */,
 				1A96C5AB1F9D7E2800F40A54 /* AppDelegate.m in Sources */,
 				1A96C5C61F9D809000F40A54 /* DateTimePickerView.m in Sources */,
+				1A96C5E41F9DC97800F40A54 /* LongPressVC.m in Sources */,
+				1A96C5E31F9DC97800F40A54 /* GestureVC.m in Sources */,
+				1A96C5E81F9DC97800F40A54 /* RotationVC.m in Sources */,
 				1A96C5A81F9D7E2800F40A54 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -348,6 +402,7 @@
 				1A96C5BC1F9D7E2800F40A54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

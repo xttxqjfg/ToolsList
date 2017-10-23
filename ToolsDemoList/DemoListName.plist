@@ -8,5 +8,11 @@
 		<key>className</key>
 		<string>DateTimePickerVC</string>
 	</dict>
+	<dict>
+		<key>name</key>
+		<string>手势操作</string>
+		<key>className</key>
+		<string>GestureVC</string>
+	</dict>
 </array>
 </plist>
